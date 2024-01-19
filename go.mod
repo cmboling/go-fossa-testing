@@ -9,5 +9,5 @@ module k8s.io/kubernetes
 go 1.21
 
 require (
-	go.etcd.io/etcd/client/v3 v3.5.10
+	go.etcd.io/etcd/client/v2 v2.305.11
 )
