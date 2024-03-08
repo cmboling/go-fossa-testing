@@ -10,4 +10,5 @@ go 1.21
 
 require (
 	go.etcd.io/etcd/client/v2 v2.305.11
+	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
 )
